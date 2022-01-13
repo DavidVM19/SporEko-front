@@ -4,7 +4,7 @@ import HeaderDesktop from '../layout/HeaderDesktop';
 
 const HomeDesktop = () => {
   return (
-    <div className='homeContainer'>
+    <div className="homeContainer">
       <HeaderDesktop />
       SportEko
     </div>

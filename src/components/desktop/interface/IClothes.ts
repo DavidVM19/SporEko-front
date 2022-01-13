@@ -1,5 +1,4 @@
 export default interface IClothes {
-    id_clothes: number;
-    name: string;
-  }
-  
+  id_clothes: number;
+  name: string;
+}

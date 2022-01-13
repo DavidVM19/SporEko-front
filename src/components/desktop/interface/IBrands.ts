@@ -1,3 +1,3 @@
 export default interface IBrand {
-    name: string;
-  }
+  name: string;
+}
