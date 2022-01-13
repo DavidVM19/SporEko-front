@@ -1,0 +1,43 @@
+.header {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(180, 180, 180);
+    height: 15vh;
+  
+    img {
+      width: 15%;
+    }
+  
+    .headerContainer {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+    }
+
+    p {
+      cursor: pointer;
+    }
+  
+    a, p {
+      text-decoration: none;
+      color: black;
+  
+      &:hover {
+        color: chartreuse;
+      }
+    }
+  }
+
+  .hiddenSearchBar {
+    display: flex;
+    align-items: center;
+    height: 100%;
+  }
+  
+  #searchHome {
+    width: 30rem;
+    padding: 0.8em;
+    border-radius: 10px;
+  }

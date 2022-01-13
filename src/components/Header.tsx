@@ -11,7 +11,7 @@ const Header = () => {
           <a href="/location">Près de chez vous</a>{' '}
         </li>
         <li>
-          {/* <input id="searchHome" type="search" value="Rechercher un article" /> */}
+          <input id="searchHome" type="search" value="Rechercher un article" />
         </li>
         <li>
           <a href="/mon_compte">Mon compte</a>{' '}

@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Loupe from '../../../resources/loupe.png';
+import Loupe from '../../../../resources/loupe.png';
 
 const Home = () => {
   return (
